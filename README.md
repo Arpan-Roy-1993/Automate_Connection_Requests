@@ -1,6 +1,6 @@
 # send-connection-request-linkedin
-Wanted to send connection requests to people who have put 'hiring' in their status (company wise). I have used Selenium and python.
-
+The Project automates sending connection requests to linkedin profiles. A use case that I can think of (and used) is sending automated connection requests to linkedin recruiters. 
+The arguments to the function send-connection-requets is as follows:
 Input: 
 * input message
 * company URL from linkedin, filtered by 'hiring' (Auto search will be implemented in next version)
