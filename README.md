@@ -1,6 +1,6 @@
 # send-connection-request-linkedin
 The Project automates sending connection requests to linkedin profiles. A use case that I can think of (and used) is sending automated connection requests to linkedin recruiters and can aid job seekers in their job search.
-The arguments to the function send-connection-requets is as follows:
+The arguments to the function send-connection-requests is as follows:
 Input: 
 * input message
 * company URL from linkedin, filtered by 'hiring' (Auto search will be implemented in next version)
